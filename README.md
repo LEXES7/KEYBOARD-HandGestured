@@ -47,7 +47,6 @@ pip install -r requirements.txt
 
 1. **Run the application**
 ```bash
-cd src
 python main.py
 ```
 
